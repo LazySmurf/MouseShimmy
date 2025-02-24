@@ -1,5 +1,0 @@
-C:\Users\Alex\source\repos\MouseShimmy\MouseShimmy\bin\Release\net9.0-windows\publish\MouseShimmy.exe
-C:\Users\Alex\source\repos\MouseShimmy\MouseShimmy\bin\Release\net9.0-windows\publish\MouseShimmy.dll
-C:\Users\Alex\source\repos\MouseShimmy\MouseShimmy\bin\Release\net9.0-windows\publish\MouseShimmy.deps.json
-C:\Users\Alex\source\repos\MouseShimmy\MouseShimmy\bin\Release\net9.0-windows\publish\MouseShimmy.runtimeconfig.json
-C:\Users\Alex\source\repos\MouseShimmy\MouseShimmy\bin\Release\net9.0-windows\publish\MouseShimmy.pdb
